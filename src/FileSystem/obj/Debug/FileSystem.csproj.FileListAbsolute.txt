@@ -1,0 +1,10 @@
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\bin\Debug\FileSystem.exe.config
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\bin\Debug\FileSystem.exe
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\bin\Debug\FileSystem.pdb
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\bin\Debug\DokanNet.dll
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\obj\Debug\FileSystem.csprojResolveAssemblyReference.cache
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\obj\Debug\FileSystem.fInfo.resources
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\obj\Debug\FileSystem.Properties.Resources.resources
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\obj\Debug\FileSystem.csproj.GenerateResource.Cache
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\obj\Debug\FileSystem.exe
+\\psf\Home\Downloads\filesystem 2\src\FileSystem\obj\Debug\FileSystem.pdb
